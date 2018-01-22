@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="input_component" timestamp="2018-01-22T10:47:14" time="2.595" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="58ef3f76afb654e570ca940f627d9256"/>
+      <property name="suiteName" value="Input Component"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value=".\test\input.js"/>
+    </properties>
+    <testcase classname="chrome.input_component" name="should_be_able_to_open_input_component_page" time="2.595"/>
+  </testsuite>
+</testsuites>
